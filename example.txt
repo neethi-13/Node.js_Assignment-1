@@ -1,0 +1,9 @@
+Blocking and Non-Blocking
+
+Blocking code:
+
+       Blocking code executes line by line, waiting for the current operation to complete before moving to the next one.
+
+Non-Blocking code:
+
+       Non-blocking code does not wait; it uses callbacks, promises, or async/await to continue executing other code.
